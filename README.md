@@ -1,0 +1,1 @@
+[![show-directory](https://github.com/daniljudo2-pixel/python-workflow-test/actions/workflows/show-directory.yml/badge.svg)](https://github.com/daniljudo2-pixel/python-workflow-test/actions/workflows/show-directory.yml)
